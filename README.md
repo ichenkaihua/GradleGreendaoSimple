@@ -1,0 +1,2 @@
+# GradleGreendaoSimple
+gradle脚本集成greendao-generator生成android端greendao,不使用java module
