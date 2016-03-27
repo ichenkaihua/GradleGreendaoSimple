@@ -6,4 +6,5 @@ gradle脚本集成greendao-generator生成android端greendao,不使用java modul
 ## About Me
 
 blog:<http://www.chenkaihua.com>
+
 github:<https://www.github.com/ichenkaihua>
